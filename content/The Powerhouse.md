@@ -1,0 +1,1 @@
+Strong but not strong enough  

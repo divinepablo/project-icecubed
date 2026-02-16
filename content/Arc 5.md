@@ -1,0 +1,1 @@
+[[The Lancer]] leaves the group after an argument with [[The Leader]]. 
