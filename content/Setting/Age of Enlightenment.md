@@ -1,3 +1,8 @@
+---
+tags:
+  - Time-Period
+---
+
 Starting 350 years ago was the height of [[Imaginary Power System|IPS]] usage. The era lead to the birth of many bloodlines throughout the world.
 This era starts with the birth of [[The Strongest|the strongest]] [[Imaginary Power System|IPS]] practitioner in history was born. The era ends soon after the death of [[The Strongest|the strongest]] when [[Across D. Way]] freezes all of the main practitioners of [[Imaginary Power System|IPS]], effectively ending the era after 35 long and deadly years.
 

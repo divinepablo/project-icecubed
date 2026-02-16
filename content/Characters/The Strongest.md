@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+---
+
 * The strongest in history  
 * From a lineage thought to be exterminated  
 * [[IPS Technique|Abilities]]:  

@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+---
+
 _Kind of meant to show that hard work and determination to your goals can achieve anything_
 ### IPS Knowledge
 * No innate IPS knowledge due to his family moving to the area in recent years  

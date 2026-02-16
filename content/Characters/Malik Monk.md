@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+---
+
 a monk who despises reliance on others and creates clones to fight for him. 
 * The clones are 1:1 with no genetic differences/difference in personality if not previous defined  
 * When the he uses/relies on others he forces them into a pact  

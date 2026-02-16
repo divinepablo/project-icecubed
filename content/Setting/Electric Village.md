@@ -1,3 +1,9 @@
+---
+tags:
+  - Location
+  - Town
+---
+
 * Founded \~300 years ago in attempts to normalize IPS to a grander audience  
 * Has an academy for people to learn the main electrical techniques  
 * Main character lives here  
