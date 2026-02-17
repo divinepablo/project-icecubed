@@ -3,4 +3,4 @@ tags:
   - Character
 ---
 
-A friend who provides therapeutic conversations to characters like [[Main Character]]. not necessarily a love interest but the two form a real bond causing huge mental instability for the [[Main Character]] after [[Death, despair, and more]]
+A girl who provides therapeutic conversations to characters like [[Main Character]]. not necessarily a love interest but the two form a real bond causing huge mental instability for the [[Main Character]] after [[Death, despair, and more]]
