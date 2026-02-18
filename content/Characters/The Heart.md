@@ -2,20 +2,18 @@
 tags:
   - Character
   - Draft
-title: “{{title}}”
-description: “Character profile for {{title}}”
+title: “The Heart”
+description: “Character profile for The Heart”
 aliases: []
-created:
-  "{ date }":
-lastmod:
-  "{ date }":
+created: 2026-02-17 13:44
+lastmod: Wednesday 18th February 2026 08:51:46
 publish: true
 draft: true
 role: “Supporting”
 status: “Alive”
 ---
 
-# {{title}}
+# The Heart
 
 ## Overview
 > [!abstract]

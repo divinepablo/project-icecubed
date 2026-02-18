@@ -1,12 +1,12 @@
 ---
-title: “{{title}}”
-description: “Character profile for {{title}}”
+title: “<% tp.file.title %>”
+description: “Character profile for <% tp.file.title %>”
 tags:
     - Character
     - Draft
 aliases: []
 created: <% tp.file.creation_date() %>
-lastmod: {{date}}
+lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: true
 draft: true
 # Story Metadata
@@ -14,7 +14,7 @@ role: “Supporting” # Protagonist, Antagonist, Supporting
 status: “Alive”
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 ## Overview
 > [!abstract]
