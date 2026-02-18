@@ -2,16 +2,15 @@
 title: “<% tp.file.title %>”
 description: “Character profile for <% tp.file.title %>”
 tags:
-    - Character
-    - Draft
+  - Character
+  - Draft
 aliases: []
 created: <% tp.file.creation_date() %>
 lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: true
 draft: true
-# Story Metadata
-role: “Supporting” # Protagonist, Antagonist, Supporting
-status: “Alive”
+role: <% tp.system.suggester([“Supporting”, “Protagonist”, “Antagonistic”]) %>
+status: <% tp.system.suggester([“Alive”, “Deceased”, “Confined”]) %>
 ---
 
 # <% tp.file.title %>
