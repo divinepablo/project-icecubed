@@ -1,7 +1,43 @@
 ---
-
 tags:
   - Character
+  - Draft
+title: “{{title}}”
+description: “Character profile for {{title}}”
+aliases: []
+created:
+  "{ date }":
+lastmod:
+  "{ date }":
+publish: true
+draft: true
+role: “Supporting”
+status: “Alive”
 ---
 
-A girl who provides therapeutic conversations to characters like [[Main Character]]. not necessarily a love interest but the two form a real bond causing huge mental instability for the [[Main Character]] after [[Death, despair, and more]]
+# {{title}}
+
+## Overview
+> [!abstract]
+> Brief summary of the character’s role and personality.
+
+## Appearance
+- **Height**: 
+- **Build**: 
+- **Key Features**: 
+
+## Personality & Motivation
+- **Goal**: 
+- **Fear**: 
+- **Flaw**: 
+
+## [[IPS Technique|Abilities]]
+- **IPS Usage**: 
+- **Signature Technique**:
+
+## Relationships
+- [[Character A]]: Relationship description.
+- [[Character B]]: Relationship description.
+
+## Background
+Detailed history...

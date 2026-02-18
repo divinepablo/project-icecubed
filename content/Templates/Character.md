@@ -5,7 +5,7 @@ tags:
     - Character
     - Draft
 aliases: []
-created: {{date}}
+created: <% tp.file.creation_date() %>
 lastmod: {{date}}
 publish: true
 draft: true
