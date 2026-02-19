@@ -10,7 +10,7 @@ lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: true
 draft: true
 role: <% await tp.system.suggester([“Supporting”, “Protagonist”, “Antagonistic”]) %>
-status: <% await tp.system.suggester([“Alive”, “Deceased”, “Confined”]) %>
+status: <% (await tp.system.suggester([“Alive”, “Deceased”, “Confined”])) %>
 ---
 
 # <% tp.file.title %>
