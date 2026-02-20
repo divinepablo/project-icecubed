@@ -1,6 +1,6 @@
 ---
-title: “Malik Monk”
-description: “Character profile for Malik Monk”
+title: Malik Monk
+description: Character profile for Malik Monk
 tags:
   - Character
   - Draft
