@@ -47,3 +47,4 @@ He also has a mental list of human tendencies that he despises
 * Laziness  
 * Greed/Gluttony  
 * More cant think atm  
+
