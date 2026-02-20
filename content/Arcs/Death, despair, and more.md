@@ -15,6 +15,7 @@ aliases:
 # Death, despair, and more
 
 ## Narrative Goal
+The [[Main Character]] is sent on a mission to 
 Establish [[Malik Monk]] as a major villain by killing off the remnants of the main party except for the [[Main Character]]
 
 ## Key Events
