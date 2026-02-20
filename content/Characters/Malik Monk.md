@@ -1,9 +1,45 @@
 ---
 tags:
   - Character
+  - Draft
+title: “Malik Monk”
+description: “Character profile for Malik Monk”
+aliases: []
+created: 2026-02-17 13:44
+lastmod: Tuesday 17th February 2026 13:44:08
+publish: true
+draft: true
+role:
+status:
 ---
 
-a monk who despises reliance on others and creates clones to fight for him. 
+# Malik Monk
+
+## Overview
+> [!abstract]
+> Brief summary of the character’s role and personality.
+
+## Appearance
+- **Height**: 6’4
+- **Build**: 
+- **Key Features**: 
+
+## Personality & Motivation
+- **Goal**: Create an ideal world
+- **Fear**: 
+- **Flaw**: 
+
+## [[IPS Technique|Abilities]]
+- **IPS Usage**: 
+- **Signature Technique**:
+
+## Relationships
+- [[Character A]]: Relationship description.
+- [[Character B]]: Relationship description.
+
+## Background
+A hate filled monk that grows to despise the human race.z
+
 * The clones are 1:1 with no genetic differences/difference in personality if not previous defined  
 * When the he uses/relies on others he forces them into a pact  
 * His ideologies albeit stupid have some basis
