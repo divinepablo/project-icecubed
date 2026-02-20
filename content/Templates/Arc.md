@@ -1,16 +1,15 @@
 ---
-title: "{{title}}"
-description: "Outline for the {{title}} arc"
+title: "<% tp.file.title %>"
+description: "Outline for the <% tp.file.title %> arc"
 tags:
   - arc
   - outline
-created: {{date}}
-lastmod: {{date}}
+created: <% tp.file.creation_date() %>
+lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: false
 enableToc: true
 ---
-
-# {{title}}
+# <% tp.file.title %>
 
 ## Narrative Goal
 What must be achieved or changed by the end of this arc?

@@ -9,10 +9,9 @@ created: <% tp.file.creation_date() %>
 lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: true
 draft: true
-role: <% await tp.system.suggester(["Supporting", "Protagonist", "Antagonistic"]) %>
-status: <% await tp.system.suggester(["Alive", "Deceased", "Confined"]) %>
+role: <% await tp.system.suggester(["Supporting", "Protagonist", "Antagonistic"], ["Supporting", "Protagonist", "Antagonistic"]) %>
+status: <% await tp.system.suggester(["Alive", "Deceased", "Confined"], ["Alive", "Deceased", "Confined"]) %>
 ---
-
 # <% tp.file.title %>
 
 ## Overview

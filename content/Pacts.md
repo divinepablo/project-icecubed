@@ -1,0 +1,1 @@
+Pacts can formed with others ([straight rip](https://jujutsu-kaisen.fandom.com/wiki/Binding_Vow#Vows_with_Others)) and when a person's first pact gets presented they are shown the exact consequences of breaking a pact (basically eternal damnation) 
