@@ -9,7 +9,7 @@ aliases: []
 created: 2026-02-14 23:16
 lastmod: Friday 20th February 2026 05:46:01
 publish: true
-draft: true
+draft: false
 role: Antagonistic
 status: Alive
 ---
