@@ -1,12 +1,12 @@
 ---
-title: "Main Character"
-description: "Character profile for Main Character"
+title: “Main Character”
+description: “Character profile for Main Character”
 tags:
   - Character
   - Draft
 aliases: []
-created: 2026-02-21
-lastmod: Saturday 21st February 2026 04:51:50
+created: 2026-02-14 23:01
+lastmod: Saturday 21st February 2026 01:14:56
 publish: true
 draft: true
 role: Protagonist
@@ -25,8 +25,8 @@ status: Alive
 
 ## Personality & Motivation
 - **Goal**: 
-- **Fear**: Not being strong enough to protect those around him
-- **Flaw**: Stuck up; acts tough due to years without approval and attention
+- **Fear**: Failure
+- **Flaw**: His arrogance
 
 ## [[IPS Technique|Abilities]]
 - **IPS Usage**: 
@@ -41,4 +41,26 @@ status: Alive
 - [[The Lancer]]: Blames the Lancer for group deaths.
 
 ## Background
-MC lives in the electric clan/schools area and they try to recruit him but turn him down once due to his lack of talent. A mentor recognizes his struggles and takes him in (low-level mentor, similar to Iruka). He goes into everything full force until the [[Death, despair, and more]] arc where everything goes horribly wrong and he realizes he isn't the main character (but he is). He avoids people after that incident because he believes he isn't strong enough to protect a fly, and overall becomes a depressing loner who works alone.
+MC lives in the [[Electric Village]] and fails the academy due to his lack of talent. A mentor recognizes his struggles and takes him in (low-level mentor, damn near iruka). This makes him go back into the academy with newfound confidence and detrimental arrogance. He goes into everything full force until the [[Death, despair, and more]] arc where everything goes horribly wrong and he realizes he isn't the main character (but he is). He avoids people after that incident because he believes he isn't strong enough to protect a fly, and overall becomes a depressing mote who works alone.
+
+
+
+
+## Background
+
+### IPS Knowledge
+- No innate IPS knowledge due to his family moving to the area in recent years  
+* MC lives in the electric clan/schools area and they try to recruit him but due to his lack of talent he is turned down once  
+* A mentor recognizes the struggles and takes him in  
+* Mentor is low level (damn near iruka)  
+* he is put in a safeish electric chair so that can truly conceptualize electricity  
+* Specializes in electricity and fires after he figures out the power system
+
+### Personality/Traits
+* Stuck up bastard who acts tough because he lacked approval and attention for x amount of years before the academy
+* He goes into everything until the [[Death, despair, and more]] arc where everything goes horribly wrong and he realizes he isn’t the main character (but he is)  
+* He avoids people after that incident because he believes he isn’t strong enough to protect a fly 
+* He overall becomes a depressing mote who works alone  
+* Blames group deaths on the Lancer 
+
+Boundless end of series due to infinite meditation (yes that means anyone with ∞ amount of meditation is boundless)  

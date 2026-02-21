@@ -32,7 +32,7 @@ status: Alive
 - **Heavenly Clone Technique**:
 	- Allows the user to create 1:1 perfect clones made in their vision, meaning that if they decide to derive the clone to accentuate a trait then that clone will essentially revolve around this trait.
 	- Malik uses this to exemplify this 7 heavenly virtues
-- Timeline erasure
+- **Timeline erasure**:
 	- To ensure his safety he can erase an ongoing timeline after jumping into a new one (might not make the cut)
 
 %% ## Relationships
