@@ -34,6 +34,10 @@ status: Alive
 	- Malik uses this to exemplify this 7 heavenly virtues
 - Timeline erasure
 	- To ensure his safety he can erase an ongoing timeline after jumping into a new one (might not make the cut)
+
+%% ## Relationships
+- [[Character A]]: Relationship description.
+- [[Character B]]: Relationship description. %%
 ## Background
 Malik being a former monk from a corrupt monastery that ended up shifting his world view. He noticed the monastery was being controlled by some form of higher ups and chalked up everything he learned to being a lie so they can be controlled and used as weapons of war. Malik then turns to some form of Christianity (due to a this being a fantasy world it'll be derived) and gains a distorted view of the Bible due to his over analyzation and misinterpretations.
 Malik hates relying on individuals so he when the he uses/relies on others he forces them into a [[Pacts|pact]]. He intends on recreating the world with his ideal humans and is researching and gathering information on how he can achieve this.
