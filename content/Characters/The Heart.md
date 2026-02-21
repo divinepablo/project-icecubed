@@ -22,21 +22,21 @@ status: Alive
 ## Appearance
 - **Height**: 5’1
 - **Build**: 
-- **Key Features**: 
+- **Key Features**: A smile that can bring anyone to peace
 
-## Personality & Motivation
+%% ## Personality & Motivation
 - **Goal**: 
 - **Fear**: 
-- **Flaw**: 
+- **Flaw**:  %%
 
-## [[IPS Technique|Abilities]]
+%% ## [[IPS Technique|Abilities]]
 - **IPS Usage**: 
-- **Signature Technique**:
+- **Signature Technique**: %%
 
-## Relationships
+%% ## Relationships
 - [[Character A]]: Relationship description.
-- [[Character B]]: Relationship description.
+- [[Character B]]: Relationship description. %%
 
-## Background
-Detailed history...
+%% ## Background
+Detailed history... %%
 
