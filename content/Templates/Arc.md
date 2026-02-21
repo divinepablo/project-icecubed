@@ -1,9 +1,9 @@
 ---
-title: "<% tp.file.title %>"
-description: "Outline for the <% tp.file.title %> arc"
+title: <% tp.file.title %>
+description: Outline for the <% tp.file.title %> arc
 tags:
-  - arc
   - outline
+  - Arc
 created: <% tp.file.creation_date() %>
 lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: false

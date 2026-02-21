@@ -1,7 +1,6 @@
 ---
 tags:
   - Arc
-  - arc
   - outline
 title: Death, despair, and more
 description: Outline for the Troubled Cavern arc
@@ -19,7 +18,7 @@ The [[Main Character]] is sent on a mission to
 Establish [[Malik Monk]] as a major villain by killing off the remnants of the main party except for the [[Main Character]]
 
 ## Key Events
-1. [ ] **Inciting Incident**:
+1. [ ] **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. This person later sees him going toward [[Troubled Cavern]] and reports back to the village.
 2. [ ] **Midpoint**: 
 3. [ ] **Climax**: 
 4. [ ] **Resolution**: 
