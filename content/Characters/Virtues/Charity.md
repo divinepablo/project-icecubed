@@ -1,6 +1,6 @@
 ---
-title: "Charity"
-description: "Malik Monk's clone embodying Charity — the second of the Seven Heavenly Virtues"
+title: Charity
+description: Malik Monk's clone embodying Charity — the second of the Seven Heavenly Virtues
 tags:
   - Character
   - Clone
