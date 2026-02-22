@@ -25,7 +25,7 @@ status: Alive
 
 ## Personality & Motivation
 - **Goal**:  Create a world in his distorted view of God's image. He believes humans deterred from God's intended path and thinks the universe needs to be remade to remove their
-- **Fear**: 
+%%- **Fear**: %%
 - **Flaw**: Not understanding the nuances of human beings
 
 ## [[IPS Technique|Abilities]]
