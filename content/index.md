@@ -15,8 +15,5 @@
 - [[Power Scaling]] - Combat capabilities and destructive potential
 
 ## Quick Reference
-
-**Main Character**: Stuck-up but talented underdog with no lineage 
-**Main Villain**: [[Malik Monk]] - A monk who despises reliance on others 
-**Setting**: Old China-inspired world (Song Dynasty era), Taoist/Buddhist themes 
-**Central Conflict**: Ideological clash about human nature and societal structure
+**Setting**: Old China-inspired world (Song Dynasty era), Taoist/Buddhist themes   
+**Central Conflict**: Ideological clash about human nature and societal structure  
