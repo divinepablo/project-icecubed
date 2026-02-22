@@ -1,6 +1,6 @@
 ---
-title: “<% tp.file.title %>”
-description: “Character profile for <% tp.file.title %>”
+title: <% tp.file.title %>
+description: Character profile for <% tp.file.title %>
 tags:
   - Character
   - Draft
@@ -38,3 +38,5 @@ status: <% await tp.system.suggester(["Alive", "Deceased", "Confined"], ["Alive"
 
 ## Background
 Detailed history...
+
+<%* await tp.file.move("/Characters/" + tp.file.title) %>
