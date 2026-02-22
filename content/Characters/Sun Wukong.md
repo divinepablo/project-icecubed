@@ -37,16 +37,18 @@ arc: []
 - **Flaw**: Negligence
 - **Strengths**: Insane [[Imaginary Power System|IPS]] knowledge
 - **Defining Trait**: His presence disrupts everything
-## [[IPS Technique|Abilities]]
+## [[Imaginary Power System|IPS Knowledge]]
 - **[[IPS Levels|IPS Level]]**: 5
 - **IPS Specialty**: %% What concept did they conceptualize? (electricity, fire, intangibility, etc.) %%
 - **IPS Background**: %% Innate practitioner, learned late, self-taught? Affects starting reserve. %%
 - **Signature Technique**: %% Their most defining move — name and brief effect. %%
-- **Burned-In Techniques**: %% Techniques so practiced they activate with no actions. %%
+### [[IPS Technique|IPS Techniques]]
+- [[Uchūzangeki]]
+- [[Endorphins]]
+- [[Divine Foresight]]
+#### [[Technique Burn-In|Burned-In Techniques]]: %% Techniques so practiced they activate with no actions. %%
+-  [[Flying Slash]]
+- [[Regeneration]]
 
-## Relationships
-%% Use [[wikilinks]] so the graph connects these nodes. %%
-- 
-
-## Background
+%% ## Background %%
 %% Full prose or bullet points, whatever helps you write from their POV later. Include formative events, family, where they grew up, and why they are the way they are. %%
