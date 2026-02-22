@@ -2,6 +2,7 @@
 tags:
   - Location
   - Town
+draft: true
 ---
 
 Founded \~330 years ago after C2 established complete dominance over their territory

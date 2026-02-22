@@ -8,7 +8,7 @@
 * [[Clan 4|Birds like crows and ravens]] are used to send out messages
 
 #### Countries/Nations/Islands
-* [[Electric Village|The electric village]]  
+* [[Denkōdai|The electric village]]  
 * [[Logia City]]  
 * [[The Land of Terror ]] 
 * [[Troubled Cavern]]  

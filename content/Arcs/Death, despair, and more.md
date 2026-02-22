@@ -19,7 +19,7 @@ The [[Main Character]] is sent on a mission to investigate the library raid caus
 Establish [[Malik Monk]] as a major villain by killing off the remnants of the main party except for the [[Main Character]]
 
 ## Key Events
-1. [ ] **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. This person later sees him going toward [[Troubled Cavern]] and reports back to the village.
+1. [ ] **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. [[Malik Monk]] gets word that he him going toward [[Troubled Cavern]] and reports back to the village.
 2. [ ] **Midpoint**: 
 3. [ ] **Climax**: 
 4. [ ] **Resolution**: 
@@ -49,7 +49,7 @@ Establish [[Malik Monk]] as a major villain by killing off the remnants of the m
 ### Act 1 — Setup
 %% Establish what this character has and what they stand to lose. The reader needs to care before it is taken away. %%
 - **Status Quo**: [[Main Character|The main character]]'s party now one member less holds some resentment for [[The Lancer]] but overall move on without him realizing he'll never come back.
-- **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. This person later sees him going toward [[Troubled Cavern]] and reports back to the [[Electric Village|village]]. 
+- **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. This person later sees him going toward [[Troubled Cavern]] and reports back to the [[Denkōdai|village]]. 
 %% - **Key Scenes**: [[]] %%
 
 ### Act 2 — Descent
