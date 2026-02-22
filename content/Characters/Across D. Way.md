@@ -25,7 +25,7 @@ status: Deceased
 
 ## Personality & Motivation
 - **Goal**: Bring peace to the world by any means necessary
-- **Fear**: [[The Strongest]]
+- **Fear**: [[Sun Wukong]]
 - **Flaw**: 
 
 ## [[IPS Technique|Abilities]]

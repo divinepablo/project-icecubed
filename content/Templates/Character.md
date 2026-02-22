@@ -31,7 +31,6 @@ role: <% await tp.system.suggester(["Supporting", "Protagonist", "Antagonistic"]
 status: <% await tp.system.suggester(["Alive", "Deceased", "Confined"], ["Alive", "Deceased", "Confined"]) %>
 arc: []
 ---
-# <% tp.file.title %>
 
 %% Who is this character at their core? What single sentence captures what they represent thematically? %%
 
@@ -59,12 +58,15 @@ arc: []
 - **Strengths**: 
 - **Defining Trait**: %% The one thing anyone who knows them would name immediately. %%
 
-## [[IPS Technique|Abilities]]
+## [[Imaginary Power System|IPS Knowledge]]
 - **[[IPS Levels|IPS Level]]**: %% 1–5, or Boundless. Reserve size determines technique power ceiling. %%
 - **IPS Specialty**: %% What concept did they conceptualize? (electricity, fire, intangibility, etc.) %%
 - **IPS Background**: %% Innate practitioner, learned late, self-taught? Affects starting reserve. %%
 - **Signature Technique**: %% Their most defining move — name and brief effect. %%
-- **Burned-In Techniques**: %% Techniques so practiced they activate with no actions. %%
+### [[IPS Technique|IPS Techniques]]
+- 
+#### [[Technique Burn-In|Burned-In Techniques]]: %% Techniques so practiced they activate with no actions. %%
+-  
 
 ## Relationships
 %% Use [[wikilinks]] so the graph connects these nodes. %%

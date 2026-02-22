@@ -15,7 +15,6 @@ lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: false
 enableToc: true
 ---
-# <% tp.file.title %>
 
 %% What is this clan's identity in one sentence? What are they known for across the world? %%
 

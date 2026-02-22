@@ -1,3 +1,8 @@
+---
+aliases:
+  - IPS
+---
+
 _Mainly inspired by Nen and Domain Expansions (very loose)_
 
 ## Core Concepts

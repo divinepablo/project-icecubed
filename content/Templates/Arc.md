@@ -22,7 +22,6 @@ publish: false
 status: <% await tp.system.suggester(["Planned", "In Progress", "Complete"], ["Planned", "In Progress", "Complete"]) %>
 enableToc: true
 ---
-# <% tp.file.title %>
 
 %% One sentence: what must change or be decided by the end of this arc? Every scene here should serve that goal. %%
 

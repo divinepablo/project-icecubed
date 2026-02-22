@@ -20,7 +20,6 @@ lastmod: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 publish: false
 enableToc: true
 ---
-# <% tp.file.title %>
 
 %% What feeling does this place give a reader? What is the first image that comes to mind? %%
 
