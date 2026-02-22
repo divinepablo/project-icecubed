@@ -4,7 +4,11 @@ description: “Character profile for Main Character”
 tags:
   - Character
   - Draft
-aliases: []
+aliases:
+  - The Main Character
+  - MC
+  - The MC
+  - The main character
 created: 2026-02-14 23:01
 lastmod: Saturday 21st February 2026 01:14:56
 publish: true

@@ -1,15 +1,16 @@
 ---
+title: Heaven's Stairs
+description: Outline for the Heaven's Stairs arc
 tags:
-  - Arc
   - outline
-title: Terracotta Soldiers
-description: Outline for the Terracotta Soldiers arc
+  - Arc
 aliases: []
-created: 2026-02-14 23:24
-lastmod: Monday 16th February 2026 01:06:19
+created: 2026-02-22 13:21
+lastmod: Sunday 22nd February 2026 13:21:25
 publish: false
 status: Planned
 enableToc: true
+draft: true
 ---
 
 %% One sentence: what must change or be decided by the end of this arc? Every scene here should serve that goal. %%
@@ -25,7 +26,7 @@ enableToc: true
 ### Act 1 — Setup
 %% Establish the status quo before everything changes. The reader needs to understand what is normal before it gets threatened. %%
 - **Status Quo**: %% What does normal life look like for these characters going into the arc? %%
-- **Inciting Incident**: [[Malik Monk]] spots [[Crazed Practitioner]] and notices his obsession with the [[Age of Enlightenment]] so he decides to force him into a [[Pacts|pact]] to create a distraction and possibly take out a few practitioners in the process. This is all so he can plan the acts of the [[Heaven's Stairs]] arc
+- **Inciting Incident**: %% The event that makes the status quo impossible to return to and forces the protagonist to act. %%
 - **Key Scenes**: [[]]
 
 ### Act 2 — Confrontation
@@ -70,4 +71,3 @@ enableToc: true
 - [ ] Complete
 
 ## Notes
-Ancient practitioners from the [[Age of Enlightenment]] are thawed and causing havoc for the main villages. The [[Main Character]] is called by the [[Electric Village]] to come back help them fight off the evils from centuries ago. The village recognized the [[Main Character|MC]] as someone who could be valuable due to their survival of the [[Death, despair, and more|Troubled Cavern incident]] 4 years ago.

@@ -15,5 +15,5 @@
 6. [[Death, despair, and more]]  
 7. [[Timeskip|IPS research arc]] (timeskip, net 4 years)  
 8. [[Terracotta Soldiers]] 
-9. MFV showdown
+9. [[Heaven's Stairs]]
 10. [[Epilogue]]
