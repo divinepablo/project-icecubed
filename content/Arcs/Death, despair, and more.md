@@ -12,14 +12,14 @@ aliases:
   - Troubled Cavern Arc
 status: In Progress
 ---
-# Death, despair, and more
+%% # Death, despair, and more
 
 ## Narrative Goal
 The [[Main Character]] is sent on a mission to investigate the library raid caused by [[Malik Monk]].
 Establish [[Malik Monk]] as a major villain by killing off the remnants of the main party except for the [[Main Character]]
 
 ## Key Events
-1. [ ] **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. [[Malik Monk]] gets word that he him going toward [[Troubled Cavern]] and reports back to the village.
+1. [ ] **Inciting Incident**: Someone spotted [[Diligence]] raiding a library for research information. [[Malik Monk]] gets word that he was spotted and sends [[Kindness]] to infiltrate [[Denkōdai]]. [[Kindness]] reports [[Diligence]] going toward [[Troubled Cavern]] and reports back to the village.
 2. [ ] **Midpoint**: 
 3. [ ] **Climax**: 
 4. [ ] **Resolution**: 
@@ -34,7 +34,7 @@ Establish [[Malik Monk]] as a major villain by killing off the remnants of the m
 ## Setting
 - [[Troubled Cavern]]
 
-%% One sentence: what must change or be decided by the end of this arc? Every scene here should serve that goal. %%
+ One sentence: what must change or be decided by the end of this arc? Every scene here should serve that goal. 
 > [!abstract] Narrative Goal
 > Establish [[Malik Monk]] as a villain and kill off the rest of the [[Main Character]]'s party and gravely injure the [[Main Character]].
 
@@ -43,19 +43,19 @@ Establish [[Malik Monk]] as a major villain by killing off the remnants of the m
 - **Protagonist**: [[Main Character]]
 - **Antagonist/Obstacle**: [[Malik Monk]]
 
-## Structure
+ %%## Structure
 %% Tragedy arcs end in loss or irreversible cost — but the beats leading there still need to feel earned. The reader should see the fall coming and be unable to stop it. %%
 
 ### Act 1 — Setup
 %% Establish what this character has and what they stand to lose. The reader needs to care before it is taken away. %%
 - **Status Quo**: [[Main Character|The main character]]'s party now one member less holds some resentment for [[The Lancer]] but overall move on without him realizing he'll never come back.
-- **Inciting Incident**: Someone spotted the diligence path of [[Malik Monk]] raiding a library for research information. This person later sees him going toward [[Troubled Cavern]] and reports back to the [[Denkōdai|village]]. 
+- **Inciting Incident**: Someone spotted [[Diligence]] raiding a library for research information. [[Malik Monk]] gets word that he was spotted and sends [[Kindness]] to infiltrate [[Denkōdai]]. [[Kindness]] reports [[Diligence]] going toward [[Troubled Cavern]] and reports back to the village.
 %% - **Key Scenes**: [[]] %%
 
 ### Act 2 — Descent
 %% The character makes choices that accelerate their downfall, often believing they are doing the right thing. Irony is your friend here. %%
 - **Rising Action**: %% What decisions or pressures push the character deeper in? %%
-- **Point of No Return**: Pursuing the [[Malik Monk|main body]] after defeating
+- **Point of No Return**: Pursuing the [[Malik Monk|main body]] after defeating 
 - **Key Scenes**: [[]]
 
 ### Act 3 — Downfall

@@ -1,10 +1,10 @@
 ---
-title: "Kindness"
-description: "Malik Monk's clone embodying Kindness — the sixth of the Seven Heavenly Virtues"
+title: Kindness
+description: Malik Monk's clone embodying Kindness — the sixth of the Seven Heavenly Virtues
 tags:
   - Character
   - Clone
-  - Heavenly Virtue
+  - Heavenly-Virtue
 aliases:
   - Kindness
 created: 2026-02-22
