@@ -10,7 +10,7 @@ aliases:
 created: 2026-02-14 23:30
 lastmod: Sunday 22nd February 2026 12:09:50
 publish: true
-draft: true
+draft: false
 role: Antagonistic
 status: Deceased
 enableToc: true
