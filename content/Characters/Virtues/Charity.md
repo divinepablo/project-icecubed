@@ -4,7 +4,7 @@ description: Malik Monk's clone embodying Charity — the second of the Seven He
 tags:
   - Character
   - Clone
-  - Heavenly Virtue
+  - Heavenly-Virtue
 aliases:
   - Charity
 created: 2026-02-22
