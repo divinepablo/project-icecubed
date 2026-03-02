@@ -41,7 +41,7 @@ arc: []
 - **Defining Trait**: %% The one thing anyone who knows them would name immediately. %%
 
 ## [[Imaginary Power System|IPS Knowledge]]
-- **[[IPS Levels|IPS Level]]**: %% 1–5, or Boundless. Reserve size determines technique power ceiling. %%
+- **[[IPS Levels|IPS Level]]**: 2
 - **IPS Specialty**: %% What concept did they conceptualize? (electricity, fire, intangibility, etc.) %%
 - **IPS Background**: %% Innate practitioner, learned late, self-taught? Affects starting reserve. %%
 - **Signature Technique**: %% Their most defining move — name and brief effect. %%

@@ -8,3 +8,5 @@ The main levels are [[IPS Energy|reserve based]]  
  There might have transition ranks like jjk's semi grades.
  
  Anyone classified a level 6 (hope to god i dont write this) is a universal threat and needs to be eliminated immediately (if even possible)
+
+[[Power Scaling]]

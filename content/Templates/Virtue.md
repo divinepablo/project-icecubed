@@ -1,5 +1,15 @@
 <%*
-const virtues = ["]
+const virtues = ["Chastity", "Temperance", "Charity", "Diligence", "Kindness", "Patience", "Humility"];
+
+const folder = tp.app.vault.getFolderByPath("Character/Virtues");
+const names = folder.children.map(child => child.name.replace(".md", "")).filter(name => name != tp.file.title && name !(name in virtues));
+console.log(names)
+let virtue = await tp.system.suggester((item) => item, names, true, "Virtue");
+
+
+if (tp.file.folder() !== "Virtues") {
+    await tp.file.move("Characters/Virtues/" + tp.file.title);
+}
 -%>
 ---
 title: <% tp.file.title %>
@@ -10,8 +20,8 @@ tags:
   - Heavenly-Virtue
 aliases:
   - Chastity
-created: 2026-02-22
-lastmod: 2026-02-22
+created: <% tp.file.creation_date() %>
+lastmod: <% tp.file.last_modified_date() %>
 publish: false
 draft: true
 enableToc: false
