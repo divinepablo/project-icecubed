@@ -28,7 +28,7 @@ Establish [[Malik Monk]] as a major villain by killing off the remnants of the m
 - [[Main Character]]
 - [[The Heart]]
 - [[The Powerhouse]]
-- [[The Leader]]
+- [[Keith Middleton]]
 - [[Malik Monk]]
 
 ## Setting

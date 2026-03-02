@@ -43,7 +43,7 @@ enableToc: true
 - [[Main Character]]
 - [[The Heart]]
 - [[The Lancer]]
-- [[The Leader]]
+- [[Keith Middleton]]
 - [[The Powerhouse]]
 
 ## Narrative Role

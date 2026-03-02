@@ -4,6 +4,8 @@ description: “Character profile for Main Character”
 tags:
   - Character
   - Draft
+  - Powerhouse
+  - Smarts
 aliases:
   - The Main Character
   - MC

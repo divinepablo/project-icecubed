@@ -2,6 +2,7 @@
 tags:
   - Character
   - Draft
+  - Lancer
 title: “The Lancer”
 description: “Character profile for The Lancer”
 aliases: []

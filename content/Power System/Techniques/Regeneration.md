@@ -29,5 +29,5 @@ enableToc: true
 ## Known Users
 - [[Sun Wukong]]
 - [[The Heart]]
-- [[The Leader]]
+- [[Keith Middleton]]
 %% ## Notes %%
