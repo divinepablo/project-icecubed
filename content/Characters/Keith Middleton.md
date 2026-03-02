@@ -23,7 +23,7 @@ arc: []
 
 ## Basic Info
 - **Nickname(s)**: 
-- **Age**: 
+- **Age**: 19
 - **First Appearance**: [[]] %% Which arc or scene do they first show up? %%
 - **Affiliation**: %% Village, clan, group, or loner? %%
 

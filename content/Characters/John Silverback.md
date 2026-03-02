@@ -22,7 +22,7 @@ arc: []
 
 ## Basic Info
 - **Nickname(s)**: Johnny,
-- **Age**: 23
+- **Age**: 32
 - **First Appearance**: [[Academy Arc]] %% Which arc or scene do they first show up? %%
 - **Affiliation**: [[Patience]]
 
