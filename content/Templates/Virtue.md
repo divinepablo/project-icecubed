@@ -27,7 +27,7 @@ tags:
   - Clone
   - Heavenly-Virtue
 aliases:
-  - Chastity
+  - <% virtue %>
 created: <% tp.file.creation_date() %>
 lastmod: <% tp.file.last_modified_date() %>
 publish: false
@@ -35,7 +35,6 @@ draft: true
 enableToc: false
 virtue: Chastity
 opposes: Lust
-role: <% tp.system.promp %>
 ---
 
 > [!abstract] Virtue
