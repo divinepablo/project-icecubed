@@ -12,6 +12,8 @@ a manipulation of IPS energy that has to use IPS energy from within the body and
 * IPS technique follow a formula close to this: final output energy \= 1.75(conditions) × actions × reserve IPS energy  
 	* This looks stupid so essentially a technique can be activated if the required actions are met, if required conditions are met (only if the user's reserve IPS energy cannot meet the amount), and finally if the reserve IPS energy is high enough  
 * Using an IPS technique to pump more energy into your brain (probably like electricity) to make it run faster allows you to perceive more \- this technique gets [[Technique Burn-In|burned in]] fast through training (schools n coaches n wtv)  
-* Techniques can have supercharged variants (kinda like 200% purple having new chant) requiring new actions and/or conditions  
+* Techniques can be derived to either form entirely new techniques or be stronger versions of the technique
+	* These derived techniques may have different actions and conditions to differentiate 
+	* there's a programming analogy that I cannot fully explain at the moment, essentially imagine calling the other function and being able to manipulate that function in certain ways
 * Techniques are defined through meditation. (imagine jjk innate domain)  
 * Techniques have to be imagined through physical applications of [[IPS Energy]] while in this meditative state (really don’t know how long this’ll stay)
